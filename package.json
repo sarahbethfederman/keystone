@@ -69,7 +69,7 @@
     "qs": "4.0.0",
     "queryfilter": "0.0.4",
     "range_check": "1.4.0",
-    "react": "github:preact-compat/react",
+    "react": "github:sarahbethfederman/react",
     "react-alt-text": "2.0.0",
     "react-color": "2.11.1",
     "react-day-picker": "2.5.0",
